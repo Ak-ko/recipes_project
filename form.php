@@ -39,9 +39,9 @@
           </a>
         </li> -->
         <li>
-          <a href="create.php" class="bg-gray-400 text-black flex items-center w-full p-2 text-base transition duration-75 rounded-lg group" aria-controls="dropdown-example" data-collapse-toggle="dropdown-example">
+          <a href="form.php" class="bg-gray-400 text-black flex items-center w-full p-2 text-base transition duration-75 rounded-lg group" aria-controls="dropdown-example" data-collapse-toggle="dropdown-example">
             <img class="w-[25px]" src="https://cdn2.iconfinder.com/data/icons/picnic-outline/64/FOOD_RECIPE-recipe-ingredients-ingredient-education-recipes-orange-books-cooking-256.png" alt="">
-            <span class="flex-1 ms-3 text-left rtl:text-right whitespace-nowrap">Create Recipes</span>
+            <span class="flex-1 ms-3 text-left rtl:text-right whitespace-nowrap">Recipe Form</span>
           </a>
         </li>
       </ul>
@@ -49,7 +49,7 @@
   </aside>
 
   <div class="p-4 sm:ml-64 pt-[20px] h-[100vh]">
-    <h1 class="text-3xl font-bold border-b pb-4">Create Recipe</h1>
+    <h1 class="text-3xl font-bold border-b pb-4">Recipe</h1>
     <form class="max-w-[700px] mx-auto mt-[100px] shadow-md p-8 rounded-lg space-y-5">
       <div class="mb-5">
         <label for="title" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Title</label>
@@ -61,44 +61,21 @@
         <textarea id="description" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="This is created..."></textarea>
         <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
       </div>
-      <div class="my-11">
-        <label for="ingredient" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Ingredient</label>
-        <div class="flex gap-2 items-center">
-          <input type="text" id="ingredient" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 dark:shadow-sm-light" placeholder="Chicken">
-          <button class="bg-red-400 text-white px-3 py-2 rounded-lg"><i class="fa-solid fa-plus"></i></button>
-        </div>
-        <!-- added ingredient will show below -->
-        <div class="mt-3 flex text-xs">
-          <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">Chicken</div>
-        </div>
-        <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
-      </div>
       <div class="mb-5">
-        <label for="type" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Type</label>
-        <input list="type" class="border block w-full p-2 rounded-xl border-gray-400 bg-[#F9FAFB] shadow" placeholder="Burmese">
-        <datalist id="type">
+        <label for="category" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Category</label>
+        <input list="category" class="border block w-full p-2 rounded-xl border-gray-400 bg-[#F9FAFB] shadow" placeholder="Burmese">
+        <datalist id="category">
           <option value="Burmese">
           <option value="Vegetarian">
           <option value="Meat">
         </datalist>
-        <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
-        <!-- <select id="type" class="block w-full p-2 px-4 border-gray-300 appearance-none bg-white border rounded-xl" name="" id="">
-          <option value="burmese">Burmese</option>
-          <option value="vegetarian">Vegetarian</option>
-          <option value="meat">Meat</option>
-        </select> -->
-      </div>
-      <div class="mb-5">
-        <label for="price" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Price</label>
-        <input type="text" id="price" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 dark:shadow-sm-light" placeholder="$0.00">
-        <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
       </div>
       <input type="file" class="block my-8" required>
       <!-- added image will show here -->
       <!-- <div>
         <img class="h-[300px] w-full object-cover" src="" alt="">
       </div> -->
-      <button type="submit" class="block w-full hover:text-white hover:bg-red-400 transition-all duration-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center border border-red-400 text-red-400">Create Recipe</button>
+      <button type="submit" class="block w-full hover:text-white hover:bg-red-400 transition-all duration-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center border border-red-400 text-red-400">Done</button>
     </form>
   </div>
 

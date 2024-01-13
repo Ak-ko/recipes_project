@@ -1,5 +1,5 @@
 <?php
-header("location: create.php");
+header("location: form.php");
 die();
 ?>
 <!DOCTYPE html>
@@ -43,7 +43,7 @@ die();
           </a>
         </li>
         <li>
-          <a href="create.php" class="flex items-center w-full p-2 text-base text-gray-900 transition duration-75 rounded-lg group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700" aria-controls="dropdown-example" data-collapse-toggle="dropdown-example">
+          <a href="form.php" class="flex items-center w-full p-2 text-base text-gray-900 transition duration-75 rounded-lg group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700" aria-controls="dropdown-example" data-collapse-toggle="dropdown-example">
             <img class="w-[25px]" src="https://cdn2.iconfinder.com/data/icons/picnic-outline/64/FOOD_RECIPE-recipe-ingredients-ingredient-education-recipes-orange-books-cooking-256.png" alt="">
             <span class="flex-1 ms-3 text-left rtl:text-right whitespace-nowrap">Create Recipes</span>
           </a>

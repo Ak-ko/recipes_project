@@ -27,7 +27,7 @@
         <a href="/" class="text-3xl text-green-400 font-semibold">My Recipe</a>
       </div>
       <div>
-        <a href="create.php" class="px-3 py-3 rounded-lg bg-red-400 hover:opacity-[0.85] transition-all duration-500 text-white flex items-center gap-2">
+        <a href="form.php" class="px-3 py-3 rounded-lg bg-red-400 hover:opacity-[0.85] transition-all duration-500 text-white flex items-center gap-2">
           <i class="fa-solid fa-plus"></i>
           <div>Add Recipe</div>
         </a>
@@ -70,17 +70,10 @@
             <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
-            <p class="line-clamp-1 text-gray-500">
+            <p class="line-clamp-2 mt-2 text-gray-500">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione mollitia modi fugit ex sint? Veritatis dicta iste quasi sapiente, totam est a alias. Fugiat nulla illo dolorem ullam sequi laudantium.
             </p>
-            <div class="flex gap-2 text-xs my-3">
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">tomato</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">nga-yok-tee</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">pal-kyaw</div>
-            </div>
-            <div class="flex items-center justify-between">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            </div>
+
           </div>
         </div>
       </a>
@@ -91,17 +84,10 @@
             <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
-            <p class="line-clamp-1 text-gray-500">
+            <p class="line-clamp-2 mt-2 text-gray-500">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione mollitia modi fugit ex sint? Veritatis dicta iste quasi sapiente, totam est a alias. Fugiat nulla illo dolorem ullam sequi laudantium.
             </p>
-            <div class="flex gap-2 text-xs my-3">
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">tomato</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">nga-yok-tee</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">pal-kyaw</div>
-            </div>
-            <div class="flex items-center justify-between">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            </div>
+
           </div>
         </div>
       </a>
@@ -112,17 +98,10 @@
             <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
-            <p class="line-clamp-1 text-gray-500">
+            <p class="line-clamp-2 mt-2 text-gray-500">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione mollitia modi fugit ex sint? Veritatis dicta iste quasi sapiente, totam est a alias. Fugiat nulla illo dolorem ullam sequi laudantium.
             </p>
-            <div class="flex gap-2 text-xs my-3">
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">tomato</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">nga-yok-tee</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">pal-kyaw</div>
-            </div>
-            <div class="flex items-center justify-between">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            </div>
+
           </div>
         </div>
       </a>
@@ -133,17 +112,10 @@
             <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
-            <p class="line-clamp-1 text-gray-500">
+            <p class="line-clamp-2 mt-2 text-gray-500">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione mollitia modi fugit ex sint? Veritatis dicta iste quasi sapiente, totam est a alias. Fugiat nulla illo dolorem ullam sequi laudantium.
             </p>
-            <div class="flex gap-2 text-xs my-3">
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">tomato</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">nga-yok-tee</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">pal-kyaw</div>
-            </div>
-            <div class="flex items-center justify-between">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            </div>
+
           </div>
         </div>
       </a><a href="detail.php">
@@ -153,17 +125,10 @@
             <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
-            <p class="line-clamp-1 text-gray-500">
+            <p class="line-clamp-2 mt-2 text-gray-500">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione mollitia modi fugit ex sint? Veritatis dicta iste quasi sapiente, totam est a alias. Fugiat nulla illo dolorem ullam sequi laudantium.
             </p>
-            <div class="flex gap-2 text-xs my-3">
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">tomato</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">nga-yok-tee</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">pal-kyaw</div>
-            </div>
-            <div class="flex items-center justify-between">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            </div>
+
           </div>
         </div>
       </a>
@@ -174,17 +139,10 @@
             <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
-            <p class="line-clamp-1 text-gray-500">
+            <p class="line-clamp-2 mt-2 text-gray-500">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione mollitia modi fugit ex sint? Veritatis dicta iste quasi sapiente, totam est a alias. Fugiat nulla illo dolorem ullam sequi laudantium.
             </p>
-            <div class="flex gap-2 text-xs my-3">
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">tomato</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">nga-yok-tee</div>
-              <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">pal-kyaw</div>
-            </div>
-            <div class="flex items-center justify-between">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            </div>
+
           </div>
         </div>
       </a>

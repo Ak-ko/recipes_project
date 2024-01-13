@@ -18,7 +18,7 @@
         <a href='/' class="text-3xl text-green-400 font-semibold">My Recipe</a>
       </div>
       <div>
-        <a href="create.php" class="px-3 py-3 rounded-lg bg-red-400 hover:opacity-[0.85] transition-all duration-500 text-white flex items-center gap-2">
+        <a href="form.php" class="px-3 py-3 rounded-lg bg-red-400 hover:opacity-[0.85] transition-all duration-500 text-white flex items-center gap-2">
           <i class="fa-solid fa-plus"></i>
           <div>Add Recipe</div>
         </a>
@@ -36,13 +36,9 @@
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione mollitia modi fugit ex sint? Veritatis dicta iste quasi sapiente, totam est a alias. Fugiat nulla illo dolorem ullam sequi laudantium.
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione mollitia modi fugit ex sint? Veritatis dicta iste quasi sapiente, totam est a alias. Fugiat nulla illo dolorem ullam sequi laudantium.
       </p>
-      <div class="flex gap-2 text-xs my-3">
-        <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">tomato</div>
-        <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">nga-yok-tee</div>
-        <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">pal-kyaw</div>
-      </div>
-      <div class="flex items-center justify-between">
-        <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
+      <div class="flex gap-4 border-t py-5 justify-end">
+        <a href="form.php" class="bg-blue-400 text-white px-4 py-2 rounded-lg">Edit</a>
+        <button class="bg-red-500 text-white px-3 py-2 rounded-lg">Delete</button>
       </div>
     </div>
   </main>
