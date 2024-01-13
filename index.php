@@ -65,9 +65,9 @@
     <div class="my-20 grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-12">
       <a href="detail.php">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:shadow-lg active:shadow-none transition-all duration-500">
-          <img class="h-[300px] p-3 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
+          <img class="h-[300px] mb-4 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
           <div class="px-5 pb-5">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
             <p class="line-clamp-1 text-gray-500">
@@ -86,9 +86,9 @@
       </a>
       <a href="detail.php">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:shadow-lg active:shadow-none transition-all duration-500">
-          <img class="h-[300px] p-3 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
+          <img class="h-[300px] mb-4 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
           <div class="px-5 pb-5">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
             <p class="line-clamp-1 text-gray-500">
@@ -107,9 +107,9 @@
       </a>
       <a href="detail.php">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:shadow-lg active:shadow-none transition-all duration-500">
-          <img class="h-[300px] p-3 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
+          <img class="h-[300px] mb-4 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
           <div class="px-5 pb-5">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
             <p class="line-clamp-1 text-gray-500">
@@ -128,9 +128,9 @@
       </a>
       <a href="detail.php">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:shadow-lg active:shadow-none transition-all duration-500">
-          <img class="h-[300px] p-3 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
+          <img class="h-[300px] mb-4 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
           <div class="px-5 pb-5">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
             <p class="line-clamp-1 text-gray-500">
@@ -148,9 +148,9 @@
         </div>
       </a><a href="detail.php">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:shadow-lg active:shadow-none transition-all duration-500">
-          <img class="h-[300px] p-3 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
+          <img class="h-[300px] mb-4 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
           <div class="px-5 pb-5">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
             <p class="line-clamp-1 text-gray-500">
@@ -169,9 +169,9 @@
       </a>
       <a href="detail.php">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:shadow-lg active:shadow-none transition-all duration-500">
-          <img class="h-[300px] p-3 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
+          <img class="h-[300px] mb-4 rounded-t-lg w-full object-cover" src="https://cdn.shopify.com/s/files/1/0291/8606/4520/files/ygn-200513-7.jpg?v=1589460584" alt="product image" />
           <div class="px-5 pb-5">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Tomato Salad
             </h5>
             <p class="line-clamp-1 text-gray-500">

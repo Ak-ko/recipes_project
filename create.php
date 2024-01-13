@@ -50,14 +50,16 @@
 
   <div class="p-4 sm:ml-64 pt-[20px] h-[100vh]">
     <h1 class="text-3xl font-bold border-b pb-4">Create Recipe</h1>
-    <form class="max-w-[700px] mx-auto mt-[100px] shadow-md p-5 space-y-5">
+    <form class="max-w-[700px] mx-auto mt-[100px] shadow-md p-8 rounded-lg space-y-5">
       <div class="mb-5">
         <label for="title" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Title</label>
         <input type="text" id="title" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 dark:shadow-sm-light" placeholder="Chicken Curry...">
+        <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
       </div>
       <div>
         <label for="description" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Description</label>
         <textarea id="description" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="This is created..."></textarea>
+        <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
       </div>
       <div class="my-11">
         <label for="ingredient" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Ingredient</label>
@@ -69,6 +71,7 @@
         <div class="mt-3 flex text-xs">
           <div class="bg-red-400 text-white px-2 py-1 rounded-2xl">Chicken</div>
         </div>
+        <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
       </div>
       <div class="mb-5">
         <label for="type" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Type</label>
@@ -78,6 +81,7 @@
           <option value="Vegetarian">
           <option value="Meat">
         </datalist>
+        <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
         <!-- <select id="type" class="block w-full p-2 px-4 border-gray-300 appearance-none bg-white border rounded-xl" name="" id="">
           <option value="burmese">Burmese</option>
           <option value="vegetarian">Vegetarian</option>
@@ -87,8 +91,9 @@
       <div class="mb-5">
         <label for="price" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Price</label>
         <input type="text" id="price" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 dark:shadow-sm-light" placeholder="$0.00">
+        <!-- <span class="text-red-500 text-xs ml-2 tracking-wider">title is required!</span> -->
       </div>
-      <input type="file" class="block">
+      <input type="file" class="block my-8" required>
       <!-- added image will show here -->
       <!-- <div>
         <img class="h-[300px] w-full object-cover" src="" alt="">
